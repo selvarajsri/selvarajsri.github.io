@@ -71,9 +71,10 @@ p{
 }
 .bottom{
     width: 100%;
-    margin-top: 150px;
+    margin-top: 250px;
     background-color: rgb(233, 50, 77);
     display:inline-block;
+    
 }
 .bot{
     margin-left: 42%;
